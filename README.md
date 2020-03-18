@@ -4,5 +4,6 @@ Welcome to my protfolio website! This website displays my current web developer 
 
 Please feel free to contact me as well!
 
+Deployed version : https://react-port-production.herokuapp.com/
 
 <img src="src/assets/images/portfolio_page.jpg" alt="Portfolio"  style="width:auto; height:auto;">
