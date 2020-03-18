@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-2column-portfolio",
-  "description": "Gatsby 2 Column Portfolio Starter",
+  "name": "portfolio",
+  "description": "portfolio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/praagyajoshi/gatsby-starter-2column-portfolio"
+    "url": "https://github.com/jcraig451/React-Portfolio"
   },
   "license": "MIT",
   "scripts": {
